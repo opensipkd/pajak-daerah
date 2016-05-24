@@ -1,0 +1,1 @@
+rename file web2dm.sfx.php menjadi web2dm.sfx.exe
