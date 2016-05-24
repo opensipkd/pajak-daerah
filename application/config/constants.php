@@ -97,3 +97,8 @@ defined('PBB_RPC_API_KEY')          OR define('PBB_RPC_API_KEY', '');
 defined('PBB_RPC_API_NAME')         OR define('PBB_RPC_API_NAME', '');
 defined('PBB_RPC_SSL_VERIFY_PEER')  OR define('PBB_RPC_SSL_VERIFY_PEER', '');
 defined('PBB_RPC_SSL_CAINFO')       OR define('PBB_RPC_SSL_CAINFO', '');  
+
+defined('PADL_RPC_SERVER') OR define('PADL_RPC_SERVER', 'http://localhost/ws/api/wspadl'); //'http://pbb.tangerangkota.org/new/api/wspbb'); 
+defined('PADL_RPC_USER')   OR define('PADL_RPC_USER', 'admin');  
+defined('PADL_RPC_PASS')   OR define('PADL_RPC_PASS', '1234');  
+defined('PADL_RPC_AUTH')   OR define('PADL_RPC_AUTH', 'basic');
